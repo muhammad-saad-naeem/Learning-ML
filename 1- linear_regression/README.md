@@ -1,4 +1,4 @@
-# Project Overview: Manual Feature Selection vs. PCA for Stock Price Prediction
+# Project Overview: Linear Regression with Manual Feature Selection vs. PCA for Stock Price Prediction
 
 ## Objective
 
