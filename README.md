@@ -25,4 +25,4 @@ I’m just starting out, so if you have any suggestions or feedback, please let 
 
 Thanks for checking out my work!
 
-Peace Out! ✌️ 
+Peace ✌️ 
